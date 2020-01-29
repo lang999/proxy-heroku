@@ -1,1 +1,2 @@
-i kinda ripped this off a guy who had ripped this off a guy, long story short, im using this as a proxy.
+this is one of the most self explanitroy sites in existance. 
+also, i reserve some rights.
