@@ -1,8 +1,8 @@
-build-essential
-curl
-file
-git
-cmake
-make
-gcc
-g++
+#build-essential
+#curl
+#file
+#git
+#cmake
+#make
+#gcc
+#g++
